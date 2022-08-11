@@ -1,0 +1,11 @@
+Model Information:
+* title:	lava monster
+* source:	https://sketchfab.com/3d-models/lava-monster-2e2a1eac6f834857af5347a0662b075d
+* author:	Satwik.Bandi (https://sketchfab.com/Satwik.Bandi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lava monster" (https://sketchfab.com/3d-models/lava-monster-2e2a1eac6f834857af5347a0662b075d) by Satwik.Bandi (https://sketchfab.com/Satwik.Bandi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
